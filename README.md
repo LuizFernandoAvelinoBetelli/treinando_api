@@ -6,8 +6,6 @@ Este projeto é um treinamento para consumir APIS e explorar os dados do univers
 
 Linguagem: Python
 
-Framework: Flask
-
 Consumo de API: Requests
 
 #
